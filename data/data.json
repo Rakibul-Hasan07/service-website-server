@@ -40,5 +40,21 @@
         "price": "40",
         "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
         "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+    },
+    {
+        "question": "Difference between SQL and NoSQL",
+        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+    },
+    {
+        "question": "What is JWT, and how does it work?",
+        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+    },
+    {
+        "question": "What is the difference between javascript and NodeJS?",
+        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+    },
+    {
+        "question": "How does NodeJS handle multiple requests at the same time?",
+        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
     }
 ]
