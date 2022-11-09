@@ -57,7 +57,7 @@ async function run() {
             }
         }
         const result = await reviewCollection.find(query).toArray()
-        res.send(result)
+        res.send(result);
     })
     app.delete('/review/:id', async (req, res) => {
         const id = req.params.id;
