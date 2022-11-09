@@ -26,7 +26,7 @@ async function run() {
     })
     app.get('/allservices', async (req, res) => {
         const result = await serviceCollection.find({}).toArray();
-        res.send(result);
+        res.send(result)
     })
 
     app.get('/services/:id', async (req, res) => {
