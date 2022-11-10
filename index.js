@@ -21,6 +21,7 @@ async function run() {
     const serviceCollection = client.db('services').collection('items')
     const reviewCollection = client.db('services').collection('review')
     const blogCollection = client.db('services').collection('blogs')
+    const photoCollection = client.db('services').collection('photo')
 
     app.get('/services', async (req, res) => {
         const result = await serviceCollection.find({}).limit(3).toArray();
@@ -42,7 +43,10 @@ async function run() {
         const result = await blogCollection.find({}).toArray()
         res.send(result);
     })
-
+    app.get('/photo', async(req, res) => {
+        const result = await photoCollection.find({}).toArray();
+        res.send(result);
+    })
     app.post('/services', async (req, res) => {
         const service = req.body;
         const result = await serviceCollection.insertOne(service)

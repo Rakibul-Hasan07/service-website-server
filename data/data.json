@@ -36,19 +36,19 @@
         "description": "I will provide drone photography service.Drones are one of the most exciting new technologies to capture images and video from points of view we rarely get to experience.Drone photography allows images and audio/video to be captured that might not be otherwise possible for human photographers and videographers. That capacity can be enabled by the flight abilities of drones, their small size or their ability to tolerate harsh environments."
     },
     {
-        "question": "Difference between SQL and NoSQL",
-        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+        "description": "Captured pictures are incredibly important as they not only allow us to capture a certain moment in time, but also preserve it for generations to come and so are able to relive the wonderful memory or experience again and again.",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGo8dacilEbUNVmtAgjJtpHmOyd86WAdJC5Q&usqp=CAU."
     },
     {
-        "question": "What is JWT, and how does it work?",
-        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+        "description": "Nature photography is a wide range of photography taken outdoors and devoted to displaying natural elements such as landscapes, wildlife, plants, and close-ups of natural scenes and textures.",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_SUiVpAbEzM1CGft_pzAWvZ0VDvzpWlOPA&usqp=CAU"
     },
     {
         "question": "What is the difference between javascript and NodeJS?",
-        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+        "answer": "JavaScript is a simple programming language that can be used with any browser that has the JavaScript Engine installed. Node. js, on the other hand, is an interpreter or execution environment for the JavaScript programming language."
     },
     {
         "question": "How does NodeJS handle multiple requests at the same time?",
-        "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit quia quo dolorum quisquam libero explicabo repellendus repellat repudiandae? Nostrum blanditiis explicabo debitis vel pariatur nam expedita magnam quaerat dolorem animi."
+        "answer": "How NodeJS handle multiple client requests? NodeJS receives multiple client requests and places them into EventQueue. NodeJS is built with the concept of event-driven architecture. NodeJS has its own EventLoop which is an infinite loop that receives requests and processes them."
     }
 ]
