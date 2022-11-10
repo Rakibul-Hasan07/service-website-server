@@ -1,45 +1,39 @@
 [
     {
-        "service_name": "Web Development",
-        "rating": 4.5, 
-        "price": "40",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+        "service_name": "Sports Photographer",
+        "price": "46",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf4bUzLuMITtiXyzL3oSi9HuTUN0o9pTNerw&usqp=CAU",
+        "description": "I will provide sports photography service.Sports photography is a type of photography that covers every sport and sporting event, capturing the action of a game and behind the scenes of the players. This type of photography helps to promote brands, the players, as well as the sport."
     },
     {
-        "service_name": "Web Development",
-        "rating": 4.5, 
-        "price": "40",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+        "service_name": "News Photographer",
+        "price": "30",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQG1azPmLz6qZqLQQJ65KNAvBf1hrhXFrOg&usqp=CAU",
+        "description": "I will provide news photography service.Photographs in Journalism inform, educate and enlighten readers about current issues and also reflect on the past as well. Photographs in Newspaper enhance the credibility of the stories. As they depict reality, they also furnish evidence to show the authenticity of a news story or give proof of an event that occurred."
     },
     {
-        "service_name": "Web Development",
-        "rating": 4.5, 
-        "price": "40",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+        "service_name": "Wedding Photographer",
+        "price": "100",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhn3ZkDRpj7Co_ozwaeMLZHZiqVzjG1PEJKA&usqp=CAU",
+        "description": "I will provide wedding photography service.Having an experienced wedding photographer puts you at ease knowing that your memories are being captured by someone who knows what they're doing, and being at ease allows you to be fully immersed on your wedding day and focused on celebrating with the ones you love."
     },
     {
-        "service_name": "Web Development",
-        "rating": 4.5, 
-        "price": "40",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+        "service_name": "Fashion Photographer",
+        "price": "70",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PeRk27_eJz8c4W_GHz8ycf6QnR0Ea8bhBw&usqp=CAU",
+        "description": "I will provide fashion photography service.Fashion photographers are responsible for how clothing is presented in advertising campaigns, catalogues and fashion magazines. They work closely with designers and fashion houses to ensure they are portraying the desired image for the brand. They work in studios or carry out shoots on location."
     },
     {
-        "service_name": "Web Development",
-        "rating": 4.5, 
-        "price": "40",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+        "service_name": "Nature Photographer",
+        "price": "60",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4kt65Eta_66-TJccEXIZasLqoJUybFm7JQ&usqp=CAU",
+        "description": "I will provide nature photography service.Nature photography helps to raise the profile of our planet and the environment. It allows people to experience things they may not see themselves, and therefore encourages them to care about its preservation. You can, in a small way, help to raise awareness of the natural world and work to promote its conservation."
     },
     {
-        "service_name": "Web Development",
-        "rating": 4.5, 
-        "price": "40",
-        "image_url": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-559460119.jpg",
-        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development gives you the opportunity to express yourself creatively on the internet. If you have an idea you would like to try as you discover your web dev skills, try it out. Web dev is a fun, creative experience.Web development is amongst those jobs that have a significantly higher job satisfaction rate. There are several reasons that web developers are so satisfied with their jobs – salary, work-life balance, and flexibility, to name a few.Technology changes quickly, which means Web Developers have to stay on top of any important new programming language, web development software, or trend. Even coding experts with advanced computer science de"
+        "service_name": "Drone Photographer",
+        "price": "120",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGb1gY772IIGph9yXY2fWHbe93QBY1rN2vQ&usqp=CAU",
+        "description": "I will provide drone photography service.Drones are one of the most exciting new technologies to capture images and video from points of view we rarely get to experience.Drone photography allows images and audio/video to be captured that might not be otherwise possible for human photographers and videographers. That capacity can be enabled by the flight abilities of drones, their small size or their ability to tolerate harsh environments."
     },
     {
         "question": "Difference between SQL and NoSQL",
